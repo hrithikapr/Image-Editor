@@ -1,0 +1,5 @@
+@import './Base.css';
+
+#header2 .container{
+    color: var(--para-clr);
+}

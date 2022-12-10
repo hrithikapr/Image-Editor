@@ -1,0 +1,30 @@
+/* @import "../App.css"; */
+
+.navbar {
+    background-color: var(--navbar-bg);
+}
+
+.nav-link {
+    color: var(--para-clr);
+}
+
+.nav-link:hover {
+    color: #999;
+}
+
+
+.logbtn {
+    padding: 5px;
+    text-transform: uppercase;
+    color: var(--para-clr);
+}
+
+.logbtn.active {
+    color: var(--main-heading);
+    border-bottom: 2px solid var(--main-heading);
+}
+
+.fa-moon:hover {
+    color: var(--para-clr);
+
+}
